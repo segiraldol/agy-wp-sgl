@@ -1,0 +1,19 @@
+# Environment & IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives & Temporary files
+*.zip
+*.tar.gz
+*.log
+scratch/
